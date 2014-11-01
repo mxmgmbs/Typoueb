@@ -1,4 +1,4 @@
- **### Typoueb**
+ ### ** Typoueb**
 
 A tool to help the orthotypo geeks to rule the internet.
 
