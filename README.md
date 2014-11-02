@@ -1,6 +1,6 @@
 **Typoueb**
 
-A tool to help the orthotypo geeks to rule the internet.
+A tool to help the orthotypo geeks rule the internet.
 
 In this small page you can find the html reference, the numerical reference, the unicode and the english name, of some of the most useful typographical signs.
 
